@@ -33,10 +33,10 @@
 
 | 문제 | 배운 개념 | 파일 |
 |------|-----------|------|
-| 두 수의 합 | 함수·return | [two_sum.py](week01_기초/two_sum.py) |
-| 짝수와 홀수 | `if/else`, `%`, `==` | [even_odd.py](week01_기초/even_odd.py) |
-| 1부터 n까지 합 | `for`, `range`, 누적(`+=`) | [sum_1_to_n.py](week01_기초/sum_1_to_n.py) |
-| n 이하 짝수의 합 | 반복문 안에 조건문 | [even_sum.py](week01_기초/even_sum.py) |
+| 두 수의 합 | 함수·return | [two_sum.py](week01_basic/two_sum.py) |
+| 짝수와 홀수 | `if/else`, `%`, `==` | [even_odd.py](week01_basic/even_odd.py) |
+| 1부터 n까지 합 | `for`, `range`, 누적(`+=`) | [sum_1_to_n.py](week01_basic/sum_1_to_n.py) |
+| n 이하 짝수의 합 | 반복문 안에 조건문 | [even_sum.py](week01_basic/even_sum.py) |
 
 ---
 
